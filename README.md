@@ -9,9 +9,9 @@
 <h3 align="center">Junior Developer, Crypto and NFT Enthusiast, Node Runner</h3>
 
 <!--Introduction-->
-<p align = "center"><samp>
+<h4 align = "center"><samp>
 Hello I'm Thekayz and an electrical and electronics engineering student. On the one hand, while studying, on the other hand, I develop myself in the field of software and progress in the field of blockchain and crypto. Lastly, I loove node testnets <3.
-</samp></p>
+</samp></h4>
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
