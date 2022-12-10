@@ -8,6 +8,11 @@
 
 <h3 align="center">Junior Developer, Crypto and NFT Enthusiast, Node Runner</h3>
 
+<!--Introduction-->
+<p align = "center"><samp>
+Hello I'm Thekayz and an electrical and electronics engineering student. On the one hand, while studying, on the other hand, I develop myself in the field of software and progress in the field of blockchain and crypto. Lastly, I loove node testnets <3.
+</samp></p>
+
 <h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://twitter.com/morningstarmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="morningstarmer" height="30" width="40" /></a>
