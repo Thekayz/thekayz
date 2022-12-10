@@ -5,11 +5,10 @@
 </h1>
 
 <h1 align="center">Hi! I'm Thekayz</h1>
+
 <h3 align="center">Junior Developer, Crypto and NFT Enthusiast, Node Runner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thekayz&label=Profile%20views&color=9d0101&style=plastic" alt="thekayz" /> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://twitter.com/morningstarmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="morningstarmer" height="30" width="40" /></a>
 </p>
@@ -29,5 +28,10 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+&#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
+
+<p align="left"> <img src="(https://komarev.com/ghpvc/?username=thekayz&style=flat-square&color=B80000" alt="thekayz" /> </p>
+
+
