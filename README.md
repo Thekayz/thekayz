@@ -10,7 +10,7 @@
 
 ##
 <p align = "center"><samp>
-<u>Hello I'm Thekayz and an electrical and electronics engineering student. On the one hand, while studying, on the other hand, I develop myself in the field of software and progress in the field of blockchain and crypto. Lastly, I loove node testnets <3.</u>
+<u>Hello I'm Thekayz and an Electrical - Electronics Engineering student. On the one hand, while studying, on the other hand, I develop myself in the field of software and progress in the field of blockchain and crypto. Lastly, I loove node testnets <3.</u>
 </samp></p>
   
 ##
