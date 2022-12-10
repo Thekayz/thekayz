@@ -32,6 +32,6 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-<p align="left"> <img src="(https://komarev.com/ghpvc/?username=thekayz&style=flat-square&color=B80000" alt="thekayz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thekayz&style=flat-square&color=B80000" alt="thekayz" /> </p>
 
 
