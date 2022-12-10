@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="" alt="Coding" width="400"></a>
+  <img src="https://github.com/Thekayz/thekayz/blob/main/aassads.jpg" alt="Coding" width="400"></a>
 </h1>
 
 <h1 align="center">Hi! I'm Thekayz</h1>
